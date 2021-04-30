@@ -1,0 +1,53 @@
+butter
+eggs
+milk
+red wine
+steak
+fish
+lamb
+celery
+cabbage
+kale
+lettuce
+mustard
+spinach
+peas
+avocado
+bell pepper
+cucumber
+pumpkin
+squash
+sweet pepper
+tomatillo
+tomato
+vanilla
+artichoke
+broccoli
+black-eyed pea
+chickpea
+fava bean
+garbanzo
+green bean
+lentil
+lima bean
+peanut
+snap pea
+snow pea
+soybean
+asparagus
+celery
+chives
+elephant garlic
+garlic
+lemongrass
+onion
+shallot
+wild leek
+bamboo shoot
+carrot
+cassava
+ginger
+sweet potato
+taro
+water chestnut
+yam
